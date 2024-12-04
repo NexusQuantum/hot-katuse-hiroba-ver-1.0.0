@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ほっと勝瀬ひろば | 公式サイト</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" type="image/x-icon" href="./favicon.ico">
+</head>
+
+<body>
+
+  <div style="display: block;" class="header">  <!-- title -->
+    <div style="display: block;">
+      <h1 class="title">ほっと勝瀬<br class="sp">ひろば</h1>
+      <p class="subtitle">こころ、<br class="sp">もっとつながる。</p>
+    </div>
+  </div>
+
+  <div style="display: block;  text-align: center;" class="header2">
+    <h1>test</h1>
+  </div>
+
+  <main>
+    <div class="explanation">    <!-- 説明 -->
+      <img src="075040.jpg" alt="ハートの画像です。" class="heart_img">
+
+      <div class="explanation-main">
+        <h1> Teams サーバー<br>開設！！</span> </h1>
+
+        <p>みんなでコミュニケーションが</p>
+        <p>できるサーバです！</p>
+        <p><a href="https://teams.live.com/l/community/FBAWKZUDa6XSiaJegM">こちら</a>からアクセスしてください！！</p>
+        <p>説明4</p>
+        <p>説明5</p>
+        <p>説明6</p>
+      </div>
+
+    </div>
+
+    <div class="asobou">
+      <h2>実際に<br class="sp">遊ぼう!!</h2>
+
+      <h1>説明</h1>
+
+      <p>ssssssssssssss</p>
+      <p>ssssssssssssss</p>
+      <p>ssssssssssssss</p>
+      <p>ssssssssssssss</p>
+
+      <div class="naiyou-asobou"> 1. </div>
+      <div class="naiyou-asobou"> 2. </div>
+      <div class="naiyou-asobou"> 3. </div>
+      <div class="naiyou-asobou"> 4. </div>
+    </div>
+
+  </main>
+
+  <script src="script.js"></script>
+
+  <p>© By shuuki homepage</p>
+
+</body>
+
+</html>
